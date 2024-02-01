@@ -1,6 +1,6 @@
 # Genetic Algorithm for the Shortest Path Problem
 
-This project represents my master's course final work in the Business Operations Research area. The implementation is based on the Genetic Algorithm (GA) proposed by Gent, Cheng, and Wang in their 1997 paper ["Genetic Algorithms for Solving Shortest Path Problems"](https://ieeexplore.ieee.org/abstract/document/592343), available on IEEE Xplore.
+This project represents my final work for the class Heuristic Search Techniques, lectured by Luciano Ferreira, at the Business master's program in Operations Research, from the Federal University of Rio Grande do Sul (Universidade Federal do Rio Grande do Sul - UFRGS). The implementation is based on the Genetic Algorithm (GA) proposed by Gent, Cheng, and Wang in their 1997 paper ["Genetic Algorithms for Solving Shortest Path Problems"](https://ieeexplore.ieee.org/abstract/document/592343), available on IEEE Xplore.
 
 While the code closely follows the algorithm outlined by the authors, certain modifications were made to accommodate graph generation. Instead of using specific instances as the authors did, I opted for a graph generator inspired by the work of Guedes and Borenstein in their 2015 paper ["Column generation based heuristic framework for the multiple-depot vehicle type scheduling problem"](https://www.sciencedirect.com/science/article/abs/pii/S0360835215003976).
 
