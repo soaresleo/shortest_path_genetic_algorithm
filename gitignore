@@ -1,0 +1,10 @@
+soschema/
+venv/
+pdf-samples/
+.DS_Store
+creds.json
+creds_dev.json
+.vscode/
+__pycache__/
+schema/
+.ipynb_checkpoints/
